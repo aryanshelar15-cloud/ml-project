@@ -1,0 +1,501 @@
+customer_id,tenure,monthly_charges,total_charges,contract_type,internet_service,support_calls,churn
+1,52,68,3467,One Year,DSL,4,No
+2,15,103,3468,Monthly,None,3,No
+3,61,119,3897,Two Year,DSL,5,Yes
+4,21,48,7022,Monthly,None,4,No
+5,24,68,5626,One Year,DSL,2,No
+6,3,96,1892,One Year,DSL,2,No
+7,22,74,2961,One Year,DSL,3,Yes
+8,53,42,5832,One Year,DSL,5,No
+9,2,87,3576,One Year,None,5,No
+10,30,49,3517,Monthly,None,4,No
+11,38,101,1745,Monthly,Fiber,4,Yes
+12,2,90,6663,Monthly,None,5,Yes
+13,64,68,1305,Monthly,DSL,4,No
+14,60,30,3130,One Year,Fiber,5,No
+15,21,32,2972,Two Year,Fiber,1,No
+16,33,106,3172,Monthly,Fiber,5,No
+17,58,91,1954,Two Year,DSL,2,Yes
+18,22,92,4121,Monthly,None,4,No
+19,49,54,4762,Monthly,DSL,5,No
+20,59,85,6614,Two Year,Fiber,5,No
+21,42,62,5131,One Year,DSL,4,No
+22,60,67,6130,Monthly,DSL,1,No
+23,15,35,2808,Monthly,None,1,Yes
+24,62,87,3602,Monthly,None,4,No
+25,62,73,7212,Two Year,Fiber,0,Yes
+26,47,74,1432,One Year,DSL,4,No
+27,62,61,7404,Two Year,DSL,4,No
+28,51,74,301,Two Year,None,1,No
+29,55,90,3607,One Year,DSL,1,No
+30,64,76,6556,Two Year,DSL,4,No
+31,3,50,4312,One Year,DSL,4,No
+32,51,109,7933,Monthly,None,4,No
+33,7,114,5132,One Year,Fiber,1,Yes
+34,21,104,674,Monthly,Fiber,4,No
+35,39,65,6487,Two Year,DSL,4,No
+36,18,48,636,Two Year,Fiber,3,No
+37,4,49,1725,Monthly,None,0,No
+38,60,86,2222,Two Year,None,2,No
+39,14,47,485,One Year,Fiber,0,Yes
+40,9,76,3381,Monthly,Fiber,3,No
+41,53,78,574,Two Year,DSL,2,Yes
+42,2,43,517,Monthly,Fiber,4,Yes
+43,60,44,6590,One Year,DSL,3,Yes
+44,71,60,3700,One Year,DSL,4,No
+45,44,30,6883,Two Year,None,1,No
+46,8,83,5134,One Year,None,5,Yes
+47,47,32,1054,Monthly,None,3,No
+48,35,45,5071,One Year,None,1,No
+49,36,116,4958,Monthly,Fiber,3,Yes
+50,50,86,5398,Monthly,None,3,No
+51,4,104,1305,One Year,Fiber,1,No
+52,2,41,4859,Two Year,None,2,No
+53,6,103,4220,One Year,Fiber,0,No
+54,54,45,2090,Monthly,DSL,4,No
+55,4,101,5399,Monthly,Fiber,3,No
+56,54,105,4905,One Year,Fiber,4,No
+57,63,53,3672,Two Year,None,5,No
+58,18,57,6075,Two Year,Fiber,1,Yes
+59,44,37,5380,Monthly,DSL,4,No
+60,34,65,6420,Monthly,DSL,1,No
+61,62,119,4480,Two Year,None,4,Yes
+62,14,37,4258,One Year,DSL,0,Yes
+63,48,87,5198,Monthly,Fiber,0,No
+64,15,89,4857,Monthly,DSL,0,No
+65,62,79,2813,Two Year,None,0,No
+66,40,57,2303,One Year,Fiber,0,No
+67,53,70,5688,Two Year,None,0,Yes
+68,24,93,3220,One Year,Fiber,1,No
+69,26,56,1066,One Year,DSL,3,Yes
+70,60,92,5044,One Year,None,4,No
+71,41,46,5303,Monthly,None,0,No
+72,29,102,3532,Two Year,Fiber,1,No
+73,15,62,788,Two Year,None,1,No
+74,45,113,4343,One Year,Fiber,1,No
+75,65,106,3801,Monthly,Fiber,3,No
+76,71,58,441,Monthly,Fiber,4,No
+77,9,42,6719,Two Year,Fiber,3,No
+78,1,75,5282,Monthly,DSL,2,No
+79,8,64,1824,Monthly,Fiber,1,No
+80,63,35,5579,One Year,None,2,No
+81,11,111,6804,Monthly,DSL,5,No
+82,8,98,4522,One Year,None,0,Yes
+83,35,76,1892,Two Year,DSL,0,No
+84,35,54,1859,Monthly,Fiber,3,No
+85,33,95,3312,Two Year,DSL,4,Yes
+86,5,39,1089,Two Year,DSL,2,Yes
+87,41,85,2362,Monthly,None,4,Yes
+88,28,59,2582,Monthly,None,3,No
+89,7,34,1051,Two Year,Fiber,0,No
+90,12,62,822,Monthly,DSL,4,No
+91,34,94,3489,One Year,DSL,4,No
+92,33,47,2179,One Year,DSL,0,No
+93,48,78,2817,Monthly,Fiber,2,No
+94,23,40,2432,Two Year,Fiber,0,No
+95,62,114,3476,Monthly,Fiber,4,No
+96,37,55,4624,Monthly,Fiber,2,No
+97,44,92,1600,Two Year,Fiber,2,No
+98,35,118,385,Two Year,None,0,Yes
+99,65,115,7411,One Year,DSL,4,No
+100,47,88,3595,Two Year,DSL,3,No
+101,3,56,7286,One Year,DSL,4,No
+102,1,78,2165,Two Year,DSL,1,Yes
+103,5,106,868,Monthly,DSL,5,Yes
+104,14,62,6833,One Year,DSL,3,No
+105,27,30,5590,One Year,DSL,2,Yes
+106,9,50,7442,One Year,DSL,3,No
+107,15,84,3157,Monthly,None,2,Yes
+108,42,35,4389,Monthly,DSL,2,No
+109,51,110,6745,Monthly,None,3,No
+110,63,98,5183,Monthly,Fiber,2,No
+111,52,34,5332,Monthly,DSL,2,No
+112,4,32,2261,One Year,Fiber,1,Yes
+113,23,82,3393,Monthly,Fiber,4,Yes
+114,15,52,5897,One Year,Fiber,4,No
+115,43,82,1046,Monthly,None,5,No
+116,29,66,5026,Two Year,Fiber,5,No
+117,36,103,7911,One Year,Fiber,1,No
+118,13,103,6116,Two Year,Fiber,5,No
+119,32,112,3435,One Year,DSL,3,No
+120,71,46,7168,Two Year,DSL,0,No
+121,59,114,4250,Monthly,None,0,Yes
+122,28,107,7910,Monthly,None,0,No
+123,66,102,4995,Monthly,DSL,1,No
+124,42,30,4973,One Year,None,1,No
+125,45,80,1581,Two Year,DSL,2,Yes
+126,62,74,2001,Monthly,Fiber,0,No
+127,57,106,6405,Two Year,Fiber,3,No
+128,6,33,3551,Two Year,None,5,No
+129,28,91,4164,Monthly,DSL,3,No
+130,28,94,6330,Monthly,DSL,5,No
+131,44,61,154,Two Year,None,0,No
+132,30,63,7743,Monthly,DSL,0,Yes
+133,62,101,1923,Monthly,Fiber,0,No
+134,62,68,5397,Monthly,None,1,Yes
+135,1,55,3562,One Year,None,5,No
+136,27,63,7616,Two Year,DSL,1,No
+137,62,83,3179,Two Year,None,1,Yes
+138,3,32,932,One Year,DSL,4,No
+139,70,79,4508,Two Year,DSL,3,Yes
+140,27,41,2906,Monthly,DSL,3,No
+141,9,94,6054,Two Year,DSL,2,No
+142,62,83,6203,Monthly,DSL,1,No
+143,37,34,6202,One Year,None,5,Yes
+144,51,86,2590,Monthly,Fiber,4,No
+145,44,46,5986,Two Year,Fiber,4,No
+146,24,76,427,Two Year,None,3,No
+147,59,52,7321,Two Year,None,1,No
+148,32,108,7004,One Year,Fiber,2,Yes
+149,52,114,3410,One Year,Fiber,1,No
+150,62,43,3400,Two Year,Fiber,0,Yes
+151,58,95,6822,Monthly,Fiber,1,No
+152,52,104,7318,One Year,Fiber,0,No
+153,12,80,7876,Two Year,DSL,0,Yes
+154,39,67,3775,Two Year,None,2,Yes
+155,2,93,3154,One Year,DSL,5,Yes
+156,3,67,5483,One Year,Fiber,3,No
+157,56,79,7685,One Year,Fiber,1,No
+158,59,111,2243,Monthly,Fiber,0,No
+159,2,59,5307,Monthly,DSL,1,Yes
+160,2,108,7345,Two Year,DSL,5,Yes
+161,54,80,1411,One Year,Fiber,3,No
+162,1,92,3291,Monthly,DSL,5,Yes
+163,19,81,7057,One Year,DSL,3,No
+164,2,67,2638,Two Year,Fiber,4,No
+165,53,117,4083,Monthly,DSL,3,No
+166,44,108,4647,Monthly,None,2,No
+167,32,59,5719,Monthly,None,5,No
+168,70,80,264,Two Year,None,0,Yes
+169,32,110,4377,One Year,None,4,Yes
+170,68,34,6712,Monthly,Fiber,2,Yes
+171,55,58,5105,Two Year,Fiber,1,No
+172,56,33,6978,One Year,Fiber,5,Yes
+173,17,39,922,Two Year,None,0,No
+174,38,85,1043,One Year,None,3,No
+175,24,46,6197,Two Year,DSL,0,No
+176,69,103,6250,One Year,DSL,1,No
+177,70,46,4525,Monthly,None,4,Yes
+178,11,113,874,One Year,None,4,No
+179,16,117,7940,Two Year,None,5,No
+180,59,98,2298,Two Year,None,4,Yes
+181,70,63,3256,One Year,DSL,5,Yes
+182,3,35,4342,Monthly,None,5,No
+183,20,82,3795,Monthly,DSL,5,No
+184,59,95,3552,One Year,None,3,No
+185,36,106,1014,One Year,None,2,No
+186,19,72,5767,Two Year,None,5,No
+187,67,104,1408,Monthly,DSL,5,No
+188,19,52,6943,One Year,DSL,2,No
+189,20,84,4277,Monthly,Fiber,0,No
+190,71,109,613,One Year,None,5,No
+191,52,104,2020,One Year,Fiber,3,No
+192,33,45,7058,Monthly,Fiber,4,No
+193,40,37,6952,One Year,DSL,4,No
+194,39,33,6135,One Year,DSL,1,No
+195,1,33,3694,Two Year,Fiber,1,No
+196,11,85,4941,One Year,None,4,No
+197,57,54,7266,One Year,DSL,4,No
+198,50,96,1509,One Year,None,3,No
+199,23,96,4902,Two Year,None,2,Yes
+200,31,56,4666,Monthly,Fiber,1,No
+201,42,61,3290,Two Year,Fiber,2,Yes
+202,7,79,4591,Two Year,Fiber,3,No
+203,16,90,1655,Monthly,Fiber,4,No
+204,60,80,6504,Two Year,DSL,5,No
+205,2,48,904,Monthly,DSL,2,No
+206,1,50,5129,Two Year,Fiber,4,No
+207,48,34,1379,Monthly,DSL,4,No
+208,12,111,5953,One Year,Fiber,0,No
+209,69,71,5100,Two Year,None,2,No
+210,37,90,7493,Two Year,None,5,Yes
+211,32,51,5272,Two Year,None,2,Yes
+212,9,50,7183,Two Year,Fiber,4,No
+213,19,99,6086,One Year,None,5,No
+214,48,30,5719,Two Year,DSL,3,Yes
+215,3,34,3677,One Year,None,0,Yes
+216,20,41,3001,One Year,None,4,Yes
+217,24,119,1487,One Year,None,1,No
+218,54,75,5499,One Year,DSL,1,No
+219,33,63,4788,Monthly,Fiber,0,No
+220,24,78,2861,Monthly,DSL,3,Yes
+221,36,107,7425,Two Year,Fiber,4,No
+222,38,119,2779,Monthly,Fiber,2,Yes
+223,25,74,2206,Monthly,None,0,Yes
+224,18,56,7994,Two Year,Fiber,3,No
+225,66,102,4323,Two Year,DSL,2,Yes
+226,54,55,4931,Two Year,DSL,1,Yes
+227,35,76,2868,Monthly,Fiber,1,Yes
+228,61,115,4053,Monthly,None,2,Yes
+229,41,85,3286,Two Year,None,0,Yes
+230,33,92,3380,One Year,DSL,1,No
+231,68,77,2673,Two Year,None,4,No
+232,33,90,4716,One Year,Fiber,5,No
+233,14,110,2699,One Year,Fiber,2,No
+234,21,55,4133,Two Year,DSL,2,Yes
+235,48,65,336,Two Year,Fiber,1,No
+236,20,30,1404,Two Year,DSL,0,No
+237,8,37,3530,Monthly,Fiber,4,Yes
+238,7,81,7468,One Year,DSL,0,No
+239,67,108,5977,Monthly,None,3,Yes
+240,17,76,1401,Monthly,Fiber,3,No
+241,33,85,7502,Two Year,Fiber,5,No
+242,48,115,2641,Monthly,DSL,1,No
+243,59,43,2151,Two Year,DSL,1,No
+244,22,119,6909,One Year,Fiber,1,No
+245,30,57,541,Two Year,DSL,5,No
+246,38,116,2176,Monthly,Fiber,3,Yes
+247,51,107,3280,Monthly,None,0,Yes
+248,54,117,2757,Two Year,DSL,5,No
+249,8,31,3898,Two Year,Fiber,5,No
+250,27,55,904,Monthly,None,0,No
+251,27,43,174,One Year,None,1,No
+252,21,88,7081,One Year,Fiber,4,No
+253,30,85,7413,Two Year,DSL,0,No
+254,28,36,2275,One Year,Fiber,3,No
+255,64,32,4024,Monthly,None,2,No
+256,69,52,2189,Two Year,Fiber,2,No
+257,61,47,5575,Monthly,DSL,5,No
+258,48,67,140,Monthly,None,2,Yes
+259,19,44,7177,One Year,Fiber,4,No
+260,4,93,2181,Two Year,DSL,1,Yes
+261,35,118,7284,Two Year,None,3,Yes
+262,64,57,5896,One Year,DSL,4,Yes
+263,49,103,7420,Monthly,None,3,No
+264,17,68,7241,Monthly,Fiber,3,No
+265,44,86,5597,Monthly,DSL,1,Yes
+266,30,46,4783,Monthly,None,5,No
+267,46,115,1722,Two Year,DSL,2,No
+268,6,119,7896,Two Year,DSL,1,No
+269,37,73,441,One Year,Fiber,4,Yes
+270,24,54,4152,One Year,DSL,5,No
+271,46,46,2174,Two Year,None,4,No
+272,53,42,7554,Two Year,None,5,Yes
+273,60,113,745,Monthly,None,4,Yes
+274,63,54,4926,Monthly,None,1,No
+275,32,97,4363,One Year,Fiber,5,No
+276,33,39,709,Two Year,DSL,5,No
+277,67,96,6511,One Year,Fiber,3,No
+278,18,47,5968,Two Year,DSL,3,No
+279,25,115,6236,Monthly,DSL,0,No
+280,54,63,7064,One Year,DSL,4,Yes
+281,58,37,554,One Year,Fiber,3,No
+282,67,69,3053,Two Year,DSL,0,No
+283,46,112,1808,Monthly,Fiber,3,No
+284,24,71,3572,One Year,None,4,No
+285,32,70,3069,Monthly,None,5,No
+286,47,35,3128,One Year,DSL,2,Yes
+287,23,81,7743,Monthly,Fiber,4,No
+288,66,55,4897,Two Year,None,1,Yes
+289,27,93,2781,One Year,Fiber,3,No
+290,2,88,3729,One Year,Fiber,3,Yes
+291,17,85,5795,Monthly,DSL,5,Yes
+292,33,88,4325,Monthly,None,1,No
+293,9,99,3167,One Year,DSL,5,Yes
+294,43,62,6041,Two Year,DSL,1,No
+295,48,82,1486,Monthly,None,2,No
+296,39,51,3876,Monthly,None,3,Yes
+297,42,50,2966,Monthly,Fiber,3,Yes
+298,26,99,4888,One Year,None,2,No
+299,50,99,3463,One Year,Fiber,0,No
+300,25,33,5590,One Year,Fiber,5,No
+301,24,104,4989,One Year,Fiber,2,No
+302,13,91,4224,Two Year,None,5,No
+303,60,91,248,Two Year,DSL,4,No
+304,7,53,3950,One Year,Fiber,3,No
+305,57,84,5515,Two Year,DSL,5,No
+306,36,38,2158,Monthly,DSL,1,Yes
+307,45,32,7779,Monthly,None,5,No
+308,20,60,6919,Monthly,DSL,4,No
+309,65,69,1236,One Year,DSL,3,No
+310,8,65,286,Monthly,None,2,No
+311,16,53,2954,Two Year,Fiber,4,No
+312,14,35,6987,One Year,DSL,3,No
+313,15,95,1350,Two Year,None,5,No
+314,66,113,1433,Monthly,DSL,0,No
+315,32,104,4293,Monthly,DSL,0,No
+316,63,33,4250,Monthly,Fiber,1,No
+317,51,108,6866,One Year,DSL,3,No
+318,25,35,2811,Two Year,None,0,No
+319,58,80,4953,One Year,DSL,2,No
+320,63,91,4601,One Year,Fiber,3,No
+321,62,86,6312,Monthly,Fiber,2,No
+322,22,95,7579,One Year,None,2,Yes
+323,58,108,5508,One Year,Fiber,0,No
+324,58,104,1885,Monthly,DSL,3,Yes
+325,49,37,7815,One Year,Fiber,5,No
+326,52,55,850,Monthly,None,4,No
+327,42,80,7415,Monthly,Fiber,0,Yes
+328,70,74,7734,Monthly,Fiber,0,Yes
+329,15,73,1862,Monthly,Fiber,5,No
+330,54,34,7511,One Year,None,3,No
+331,60,99,7758,Monthly,Fiber,3,No
+332,8,55,4020,Monthly,Fiber,2,Yes
+333,53,97,7201,One Year,DSL,5,No
+334,60,48,7774,One Year,None,5,No
+335,5,113,4560,Two Year,Fiber,3,No
+336,68,49,6222,One Year,None,2,No
+337,6,41,581,One Year,Fiber,0,No
+338,47,76,6444,Two Year,Fiber,1,Yes
+339,55,30,253,One Year,Fiber,4,No
+340,40,119,7717,One Year,DSL,0,No
+341,52,43,1624,One Year,DSL,3,No
+342,16,93,2220,One Year,DSL,4,Yes
+343,13,67,6956,Two Year,None,1,No
+344,30,66,2443,One Year,None,1,Yes
+345,19,40,5236,One Year,DSL,2,No
+346,17,106,5860,Two Year,None,4,No
+347,63,32,1340,Monthly,Fiber,2,No
+348,19,62,160,Two Year,Fiber,0,Yes
+349,58,35,1038,Monthly,Fiber,5,Yes
+350,55,79,1739,Two Year,DSL,5,No
+351,62,39,6285,Two Year,None,5,Yes
+352,23,34,4220,One Year,DSL,4,Yes
+353,9,52,5258,Monthly,None,5,No
+354,12,39,4326,One Year,Fiber,0,No
+355,1,73,3669,Monthly,DSL,2,Yes
+356,58,31,1352,Two Year,None,4,No
+357,1,42,4303,Two Year,None,2,Yes
+358,34,69,271,Monthly,Fiber,4,No
+359,48,31,1558,One Year,DSL,2,No
+360,1,113,3649,One Year,DSL,1,No
+361,16,94,4297,One Year,DSL,2,No
+362,61,92,7109,One Year,Fiber,5,No
+363,64,102,6767,Two Year,DSL,1,No
+364,63,46,2422,Two Year,Fiber,2,Yes
+365,69,38,1736,Two Year,Fiber,4,No
+366,22,104,3215,Two Year,Fiber,4,No
+367,67,44,4190,Two Year,None,4,No
+368,26,53,7060,One Year,DSL,3,No
+369,16,67,3104,One Year,DSL,0,No
+370,51,64,5236,One Year,Fiber,4,Yes
+371,57,78,429,One Year,Fiber,1,No
+372,29,98,3740,Two Year,DSL,4,No
+373,69,91,3994,Two Year,Fiber,3,No
+374,47,89,5716,Two Year,DSL,5,No
+375,62,79,4207,Monthly,None,1,No
+376,69,107,1441,One Year,Fiber,3,No
+377,16,104,3763,One Year,DSL,5,Yes
+378,48,38,315,Two Year,Fiber,1,Yes
+379,39,63,438,One Year,DSL,2,Yes
+380,33,105,5995,One Year,DSL,0,No
+381,23,64,4162,Two Year,Fiber,0,Yes
+382,10,30,2808,Monthly,None,3,No
+383,69,69,3252,Monthly,DSL,5,No
+384,34,93,1850,Monthly,DSL,0,No
+385,52,51,5704,Two Year,DSL,5,No
+386,10,89,2521,One Year,None,5,Yes
+387,19,93,7219,Two Year,None,3,No
+388,58,101,809,Two Year,Fiber,3,No
+389,1,40,5419,One Year,None,3,No
+390,69,43,7804,Monthly,Fiber,0,No
+391,4,89,6709,Monthly,Fiber,3,No
+392,16,59,5308,Two Year,None,0,No
+393,24,64,5487,Monthly,Fiber,3,No
+394,2,114,3826,Two Year,None,4,No
+395,32,66,3742,Two Year,Fiber,5,No
+396,24,34,4093,One Year,None,3,Yes
+397,12,112,588,One Year,None,1,No
+398,50,107,5757,One Year,Fiber,5,Yes
+399,35,55,146,Two Year,DSL,5,No
+400,33,91,3459,One Year,Fiber,3,No
+401,33,33,4973,Monthly,None,2,Yes
+402,61,118,5235,Monthly,DSL,3,No
+403,51,71,4906,Two Year,Fiber,5,No
+404,43,118,500,Two Year,Fiber,1,No
+405,12,47,4090,One Year,Fiber,5,No
+406,67,69,6013,Two Year,DSL,1,No
+407,65,101,7224,Two Year,None,0,Yes
+408,33,68,3257,Monthly,Fiber,4,No
+409,40,43,4445,Monthly,Fiber,5,Yes
+410,43,61,490,One Year,Fiber,3,No
+411,44,80,3953,Two Year,Fiber,0,Yes
+412,29,67,4530,Two Year,Fiber,4,No
+413,13,52,728,Monthly,None,3,No
+414,12,92,7786,Two Year,None,2,Yes
+415,46,44,4332,Monthly,Fiber,3,No
+416,2,54,3030,One Year,DSL,1,No
+417,35,46,6931,Monthly,None,1,No
+418,8,95,1621,Two Year,DSL,2,No
+419,26,107,926,One Year,None,0,No
+420,34,82,4922,Monthly,Fiber,4,No
+421,7,80,1600,Monthly,None,3,Yes
+422,68,68,6837,One Year,Fiber,1,Yes
+423,58,80,3394,One Year,None,0,No
+424,29,99,5185,Monthly,Fiber,2,No
+425,36,35,2519,Two Year,Fiber,5,No
+426,21,96,1034,Monthly,Fiber,1,No
+427,36,36,3142,One Year,Fiber,2,No
+428,10,80,4597,Monthly,DSL,3,No
+429,24,101,1566,One Year,Fiber,4,No
+430,64,71,3661,One Year,DSL,1,No
+431,49,93,714,Two Year,DSL,1,No
+432,36,44,5492,One Year,Fiber,3,No
+433,24,58,7793,One Year,DSL,5,No
+434,23,62,1282,Two Year,None,0,No
+435,62,56,3323,One Year,Fiber,4,Yes
+436,37,65,7238,Two Year,DSL,1,Yes
+437,12,58,2767,Two Year,Fiber,4,No
+438,55,67,6431,One Year,Fiber,1,No
+439,13,86,5317,One Year,Fiber,4,No
+440,23,56,230,Monthly,DSL,2,No
+441,30,84,7048,Two Year,None,1,Yes
+442,17,62,5390,Monthly,None,4,No
+443,62,97,3083,One Year,DSL,0,No
+444,13,115,7229,Monthly,Fiber,2,No
+445,59,95,4378,Two Year,DSL,2,No
+446,19,39,7226,Monthly,DSL,0,No
+447,49,34,4559,Two Year,DSL,4,Yes
+448,12,103,138,One Year,Fiber,3,No
+449,61,67,7794,One Year,DSL,0,No
+450,19,42,4059,Two Year,Fiber,4,No
+451,9,60,6740,One Year,DSL,0,No
+452,71,76,3687,One Year,None,0,Yes
+453,28,117,5568,One Year,DSL,1,Yes
+454,52,81,7225,One Year,DSL,4,No
+455,16,85,1020,Two Year,None,3,No
+456,69,44,7664,Monthly,Fiber,1,Yes
+457,12,58,2869,Monthly,Fiber,0,Yes
+458,25,37,7428,One Year,DSL,5,No
+459,52,34,4211,Monthly,None,0,Yes
+460,53,58,592,Monthly,Fiber,0,No
+461,23,76,5645,One Year,DSL,4,No
+462,16,97,1231,One Year,None,4,No
+463,57,105,7137,Monthly,Fiber,1,Yes
+464,39,74,3621,Two Year,Fiber,3,Yes
+465,53,31,410,One Year,None,1,No
+466,42,56,838,Two Year,None,2,No
+467,58,65,3341,Monthly,None,0,No
+468,39,65,645,One Year,None,5,Yes
+469,14,55,2561,Two Year,DSL,0,No
+470,5,72,4446,One Year,None,0,No
+471,35,56,4954,Monthly,Fiber,1,No
+472,18,98,1904,Two Year,Fiber,5,No
+473,9,49,3312,Monthly,DSL,5,No
+474,58,40,5493,Monthly,Fiber,5,No
+475,17,103,7683,One Year,Fiber,1,Yes
+476,7,67,5827,Two Year,None,0,No
+477,46,35,3910,Monthly,Fiber,1,Yes
+478,13,101,6110,Monthly,DSL,4,No
+479,40,52,7306,Two Year,None,4,No
+480,42,76,913,Monthly,None,1,Yes
+481,9,119,4224,Monthly,DSL,5,No
+482,50,75,5153,Two Year,None,0,Yes
+483,27,41,2132,Two Year,None,1,No
+484,66,119,4672,Two Year,DSL,1,No
+485,5,42,4513,Two Year,None,1,Yes
+486,29,91,344,One Year,DSL,2,No
+487,37,111,4943,Two Year,DSL,4,No
+488,38,118,4892,One Year,Fiber,5,Yes
+489,8,89,371,One Year,Fiber,3,Yes
+490,65,72,3611,One Year,None,5,No
+491,17,105,1871,Monthly,None,3,No
+492,71,97,1362,One Year,DSL,2,No
+493,45,34,2524,One Year,None,1,Yes
+494,4,66,4461,Monthly,DSL,2,Yes
+495,36,101,7169,Monthly,DSL,2,No
+496,70,60,1020,Monthly,None,0,Yes
+497,31,38,3530,Two Year,DSL,4,Yes
+498,19,80,4535,Monthly,Fiber,3,Yes
+499,61,58,4584,Monthly,None,1,No
+500,54,107,2724,One Year,Fiber,3,No
